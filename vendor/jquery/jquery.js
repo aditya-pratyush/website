@@ -1,3 +1,8 @@
+/*File Name :- jquery.js
+Creator :- Aditya Pratyush
+Date :- 06-07-2020
+Copyright :- Aditya Pratyush*/
+
 /*!
  * jQuery JavaScript Library v3.2.1
  * https://jquery.com/
