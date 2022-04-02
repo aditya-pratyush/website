@@ -25,7 +25,7 @@ h6,
 .fa-user-tag,
 .list-inline-item i:hover,
 .linkedin-link a {
-  color: #1874cd;
+  color: #2775c9;
 }
 
 h2,
@@ -107,7 +107,7 @@ a {
     #8dd2f3,
     #5fb4e8,
     #3594dc,
-    #1874cd
+    #142ab4
   );
 }
 
@@ -125,7 +125,7 @@ a {
 
 button:focus,
 button:active {
-  outline: solid #add8e6 2px;
+  outline: solid #07455a 2px;
 }
 
 @media (min-width: 320px) and (max-width: 992px) {
@@ -216,7 +216,7 @@ button:active {
  .navbar-brand .img-profile {
     max-width: 12rem;
     max-height: 12rem;
-    border: 0.3rem solid #1873cde0;
+    border: 0.3rem solid #0d559de0;
     border-radius: 100%;
   }
 .navbar-collapse {
